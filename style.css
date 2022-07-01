@@ -37,6 +37,7 @@ nav{
 .logo{
     width: 160px;
     margin-right: 45px;
+    cursor: pointer;
 }
 .nav-left, .nav-right{
     display: flex;
